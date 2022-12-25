@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"name": "01 Blink",
+			"path": "./01_Blink"
+		}
+	],
+	"settings": {
+		"terminal.integrated.cwd": "${workspaceFolder}/build",
+		"terminal.integrated.fontFamily": "MesloLGM NF",
+		"terminal.integrated.fontSize": 12,
+		"editor.fontSize": 14,
+		"explorer.compactFolders": false,
+		"explorer.confirmDelete": false,
+		"window.zoomLevel": 1.0,
+		"workbench.startupEditor": "none",
+		"workbench.editor.enablePreview": false,
+		"files.exclude": {
+			"**/.git": true,
+			".gitignore": true
+		},
+		"files.watcherExclude": {
+			"**/.git": true,
+			".gitignore": true
+		},
+		"C_Cpp.default.compilerPath": "xtensa-esp32-elf-gcc",
+		"C_Cpp.default.includePath": [
+			"C:/Users/ivanb/esp/esp-idf/components/**",
+			"${workspaceFolder}/**"
+		],
+		"C_Cpp.default.browse.path": [
+			"C:/Users/ivanb/esp/esp-idf/components",
+			"${workspaceFolder}"
+		],
+		"C_Cpp.default.browse.limitSymbolsToIncludedHeaders": false,
+		"C_Cpp.default.cStandard": "c17",
+		"C_Cpp.default.cppStandard": "c++20",
+		"C_Cpp.default.intelliSenseMode": "gcc-x86",
+		"C_Cpp.intelliSenseEngine": "Default",
+		"C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+		"C_Cpp.default.windowsSdkVersion": ""
+	},
+
+	"launch": {
+		"configurations": []
+	},
+
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": []
+	}
+}
