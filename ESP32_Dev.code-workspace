@@ -1,8 +1,8 @@
 {
 	"folders": [
 		{
-			"name": "01 Blink",
-			"path": "./01_Blink"
+			"name": "02 Websocket Server",
+			"path": "./02_Websocket_Server"
 		}
 	],
 	"settings": {
